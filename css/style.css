@@ -1,0 +1,11 @@
+
+div {
+	border:8px solid #8A084B;
+	background-color: #F6CED8;
+}
+.margen{
+	text-align: center;
+	border:green 2px dotted;
+	background-color: white;
+	margin: 30px 25px 50px 80px;
+}
